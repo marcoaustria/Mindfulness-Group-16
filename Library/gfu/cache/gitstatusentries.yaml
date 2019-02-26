@@ -13,30 +13,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-02-26T16:07:38.424-05:00
+  lastUpdatedAtString: 2019-02-26T16:08:31.868-05:00
   initializedAtString: 2019-02-26T16:01:13.328-05:00
   entries:
   - path: Library/gfu/cache/branches.yaml
     fullPath: /Users/rapplyrs/Documents/GitHub/Mindfulness-Group-16/Library/gfu/cache/branches.yaml
     projectPath: Library/gfu/cache/branches.yaml
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
-  - path: Library/gfu/cache/gitlocks.yaml
-    fullPath: /Users/rapplyrs/Documents/GitHub/Mindfulness-Group-16/Library/gfu/cache/gitlocks.yaml
-    projectPath: Library/gfu/cache/gitlocks.yaml
+  - path: Library/gfu/cache/gitlog.yaml
+    fullPath: /Users/rapplyrs/Documents/GitHub/Mindfulness-Group-16/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: Library/gfu/cache/gittrackingstatus.yaml
     fullPath: /Users/rapplyrs/Documents/GitHub/Mindfulness-Group-16/Library/gfu/cache/gittrackingstatus.yaml
     projectPath: Library/gfu/cache/gittrackingstatus.yaml
     originalPath: 
     status: 3
-    staged: 0
-  - path: Temp/UnityTempFile-106411aacbd2447f98318eff8196b20c
-    fullPath: /Users/rapplyrs/Documents/GitHub/Mindfulness-Group-16/Temp/UnityTempFile-106411aacbd2447f98318eff8196b20c
-    projectPath: Temp/UnityTempFile-106411aacbd2447f98318eff8196b20c
-    originalPath: 
-    status: 1
     staged: 0

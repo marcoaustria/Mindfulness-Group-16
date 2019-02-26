@@ -346,6 +346,9 @@
     <Reference Include="GitHub.Logging">
       <HintPath>/Users/admin/Documents/Mindfulness Group 16/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
     </Reference>
+    <Reference Include="Google.ProtocolBuffers">
+      <HintPath>/Users/admin/Documents/Mindfulness Group 16/Assets/GoogleVR/Plugins/Google.ProtocolBuffers.dll</HintPath>
+    </Reference>
     <Reference Include="mscorlib">
       <HintPath>/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
     </Reference>

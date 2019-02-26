@@ -13,9 +13,381 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-02-26T15:51:52.922-05:00
+  lastUpdatedAtString: 2019-02-26T15:53:04.232-05:00
   initializedAtString: 2019-02-26T15:31:06.362-05:00
   log:
+  - commitID: d40eec5fe4e22083d4ed7038ef6f9885816e583c
+    mergeA: 
+    mergeB: 
+    authorName: Marco Austria
+    authorEmail: maustria0507@gmail.com
+    commitEmail: maustria0507@gmail.com
+    commitName: Marco Austria
+    summary: changed to android
+    description: changed to android
+    timeString: 2019-02-26T15:52:48.000-05:00
+    commitTimeString: 2019-02-26T15:52:48.000-05:00
+    changes:
+    - path: Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/AssetImportState
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/AssetImportState
+      projectPath: Library/AssetImportState
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/Collab/CollabSnapshot_82fb8921-2052-4730-8e06-48c37a6d8789.txt
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/Collab/CollabSnapshot_82fb8921-2052-4730-8e06-48c37a6d8789.txt
+      projectPath: Library/Collab/CollabSnapshot_82fb8921-2052-4730-8e06-48c37a6d8789.txt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/EditorUserBuildSettings.asset
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/EditorUserBuildSettings.asset
+      projectPath: Library/EditorUserBuildSettings.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
+      projectPath: Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/ShaderCache/0/0c652a7f18ba5629b6fed35c569ffce2.bin
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/ShaderCache/0/0c652a7f18ba5629b6fed35c569ffce2.bin
+      projectPath: Library/ShaderCache/0/0c652a7f18ba5629b6fed35c569ffce2.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/ShaderCache/0/0cbc9612ee2f15b2541ef4efb3b192bc.bin
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/ShaderCache/0/0cbc9612ee2f15b2541ef4efb3b192bc.bin
+      projectPath: Library/ShaderCache/0/0cbc9612ee2f15b2541ef4efb3b192bc.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/ShaderCache/1/1b4a0c03d9f82d8a20e6691ae9f4c490.bin
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/ShaderCache/1/1b4a0c03d9f82d8a20e6691ae9f4c490.bin
+      projectPath: Library/ShaderCache/1/1b4a0c03d9f82d8a20e6691ae9f4c490.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/ShaderCache/5/54c13d5218bc0a667db4d286f32fa9c7.bin
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/ShaderCache/5/54c13d5218bc0a667db4d286f32fa9c7.bin
+      projectPath: Library/ShaderCache/5/54c13d5218bc0a667db4d286f32fa9c7.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/ShaderCache/6/624305333cf085c9e25569070de70c69.bin
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/ShaderCache/6/624305333cf085c9e25569070de70c69.bin
+      projectPath: Library/ShaderCache/6/624305333cf085c9e25569070de70c69.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/ShaderCache/9/9fa9ad1857f204ce80d1f735b21a50f5.bin
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/ShaderCache/9/9fa9ad1857f204ce80d1f735b21a50f5.bin
+      projectPath: Library/ShaderCache/9/9fa9ad1857f204ce80d1f735b21a50f5.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/ShaderCache/a/a7eb46e0c9b8102818a9f129dd4f2315.bin
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/ShaderCache/a/a7eb46e0c9b8102818a9f129dd4f2315.bin
+      projectPath: Library/ShaderCache/a/a7eb46e0c9b8102818a9f129dd4f2315.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/ShaderCache/b/bd9295fd47a344c49f47b302f24eb419.bin
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/ShaderCache/b/bd9295fd47a344c49f47b302f24eb419.bin
+      projectPath: Library/ShaderCache/b/bd9295fd47a344c49f47b302f24eb419.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/ShaderCache/e/e584fe973aff2119499d3692ce9de5f3.bin
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/ShaderCache/e/e584fe973aff2119499d3692ce9de5f3.bin
+      projectPath: Library/ShaderCache/e/e584fe973aff2119499d3692ce9de5f3.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/ShaderCache/f/f56bff98056a11af625cf4f24663cc66.bin
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/ShaderCache/f/f56bff98056a11af625cf4f24663cc66.bin
+      projectPath: Library/ShaderCache/f/f56bff98056a11af625cf4f24663cc66.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/StateCache/Hierarchy/de0696-mainStage.json
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/StateCache/Hierarchy/de0696-mainStage.json
+      projectPath: Library/StateCache/Hierarchy/de0696-mainStage.json
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/assetDatabase3
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/assetDatabase3
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/metadata/00/0000000000000000b000000000000000
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/metadata/00/0000000000000000b000000000000000
+      projectPath: Library/metadata/00/0000000000000000b000000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/metadata/01/01e02995805eb483690380a911a657e2
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/metadata/01/01e02995805eb483690380a911a657e2
+      projectPath: Library/metadata/01/01e02995805eb483690380a911a657e2
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/metadata/01/01e02995805eb483690380a911a657e2.info
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/metadata/01/01e02995805eb483690380a911a657e2.info
+      projectPath: Library/metadata/01/01e02995805eb483690380a911a657e2.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/metadata/3c/3cf132d4fa07f4f0cb2883499c5c7dd0
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/metadata/3c/3cf132d4fa07f4f0cb2883499c5c7dd0
+      projectPath: Library/metadata/3c/3cf132d4fa07f4f0cb2883499c5c7dd0
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/metadata/3c/3cf132d4fa07f4f0cb2883499c5c7dd0.info
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/metadata/3c/3cf132d4fa07f4f0cb2883499c5c7dd0.info
+      projectPath: Library/metadata/3c/3cf132d4fa07f4f0cb2883499c5c7dd0.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/metadata/4c/4c433abcdb28444ebb7bd395ba5c76fc
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/metadata/4c/4c433abcdb28444ebb7bd395ba5c76fc
+      projectPath: Library/metadata/4c/4c433abcdb28444ebb7bd395ba5c76fc
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/metadata/4c/4c433abcdb28444ebb7bd395ba5c76fc.info
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/metadata/4c/4c433abcdb28444ebb7bd395ba5c76fc.info
+      projectPath: Library/metadata/4c/4c433abcdb28444ebb7bd395ba5c76fc.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/metadata/4d/4dfd3f5da88944ec6ac5977d676c30c6
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/metadata/4d/4dfd3f5da88944ec6ac5977d676c30c6
+      projectPath: Library/metadata/4d/4dfd3f5da88944ec6ac5977d676c30c6
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/metadata/4d/4dfd3f5da88944ec6ac5977d676c30c6.info
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/metadata/4d/4dfd3f5da88944ec6ac5977d676c30c6.info
+      projectPath: Library/metadata/4d/4dfd3f5da88944ec6ac5977d676c30c6.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/metadata/a7/a7ec9e7ad8b847b7ae4510af83c5d868
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/metadata/a7/a7ec9e7ad8b847b7ae4510af83c5d868
+      projectPath: Library/metadata/a7/a7ec9e7ad8b847b7ae4510af83c5d868
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/metadata/a7/a7ec9e7ad8b847b7ae4510af83c5d868.info
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/metadata/a7/a7ec9e7ad8b847b7ae4510af83c5d868.info
+      projectPath: Library/metadata/a7/a7ec9e7ad8b847b7ae4510af83c5d868.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/metadata/ac/acc34040a66fe4170bc8885268860cfe
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/metadata/ac/acc34040a66fe4170bc8885268860cfe
+      projectPath: Library/metadata/ac/acc34040a66fe4170bc8885268860cfe
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/metadata/ac/acc34040a66fe4170bc8885268860cfe.info
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/metadata/ac/acc34040a66fe4170bc8885268860cfe.info
+      projectPath: Library/metadata/ac/acc34040a66fe4170bc8885268860cfe.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/metadata/f8/f81094832d834c64d93b198cb16b6a3e
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/metadata/f8/f81094832d834c64d93b198cb16b6a3e
+      projectPath: Library/metadata/f8/f81094832d834c64d93b198cb16b6a3e
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/metadata/f8/f81094832d834c64d93b198cb16b6a3e.info
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/metadata/f8/f81094832d834c64d93b198cb16b6a3e.info
+      projectPath: Library/metadata/f8/f81094832d834c64d93b198cb16b6a3e.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/metadata/f8/f8eca3a711f4842eba0c52ea9885ef7f
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/metadata/f8/f8eca3a711f4842eba0c52ea9885ef7f
+      projectPath: Library/metadata/f8/f8eca3a711f4842eba0c52ea9885ef7f
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/metadata/f8/f8eca3a711f4842eba0c52ea9885ef7f.info
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/metadata/f8/f8eca3a711f4842eba0c52ea9885ef7f.info
+      projectPath: Library/metadata/f8/f8eca3a711f4842eba0c52ea9885ef7f.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/shadercompiler-UnityShaderCompiler0.log
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Library/shadercompiler-UnityShaderCompiler0.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Mindfulness Group 16.Editor.Plugins.csproj
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Mindfulness Group 16.Editor.Plugins.csproj
+      projectPath: Mindfulness Group 16.Editor.Plugins.csproj
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Mindfulness Group 16.sln
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Mindfulness Group 16.sln
+      projectPath: Mindfulness Group 16.sln
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/EditorBuildSettings.asset
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/ProjectSettings/EditorBuildSettings.asset
+      projectPath: ProjectSettings/EditorBuildSettings.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Temp/UnityTempFile-1511ba2ffb4194d2fb647079ea315936
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Temp/UnityTempFile-1511ba2ffb4194d2fb647079ea315936
+      projectPath: Temp/UnityTempFile-1511ba2ffb4194d2fb647079ea315936
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp/UnityTempFile-4032065e9f29e41ba9d10a55464bcb09
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Temp/UnityTempFile-4032065e9f29e41ba9d10a55464bcb09
+      projectPath: Temp/UnityTempFile-4032065e9f29e41ba9d10a55464bcb09
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp/UnityTempFile-659eb74a829474a8caffa1f6ff90fcd1
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Temp/UnityTempFile-659eb74a829474a8caffa1f6ff90fcd1
+      projectPath: Temp/UnityTempFile-659eb74a829474a8caffa1f6ff90fcd1
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp/UnityTempFile-b635c1a52ac2d461088e9df6bcd0c8e5
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Temp/UnityTempFile-b635c1a52ac2d461088e9df6bcd0c8e5
+      projectPath: Temp/UnityTempFile-b635c1a52ac2d461088e9df6bcd0c8e5
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp/UnityTempFile-c5f1f001ab34d4c43a42170237601556
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Temp/UnityTempFile-c5f1f001ab34d4c43a42170237601556
+      projectPath: Temp/UnityTempFile-c5f1f001ab34d4c43a42170237601556
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp/UnityTempFile-dea314bec6caf44f98e24ddbaff142a6
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Temp/UnityTempFile-dea314bec6caf44f98e24ddbaff142a6
+      projectPath: Temp/UnityTempFile-dea314bec6caf44f98e24ddbaff142a6
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Unity.Analytics.DataPrivacy.csproj
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Unity.Analytics.DataPrivacy.csproj
+      projectPath: Unity.Analytics.DataPrivacy.csproj
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Unity.CollabProxy.Editor.csproj
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Unity.CollabProxy.Editor.csproj
+      projectPath: Unity.CollabProxy.Editor.csproj
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Unity.PackageManagerUI.Editor.csproj
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Unity.PackageManagerUI.Editor.csproj
+      projectPath: Unity.PackageManagerUI.Editor.csproj
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Unity.TextMeshPro.Editor.csproj
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Unity.TextMeshPro.Editor.csproj
+      projectPath: Unity.TextMeshPro.Editor.csproj
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Unity.TextMeshPro.csproj
+      fullPath: /Users/admin/Documents/Mindfulness Group 16/Unity.TextMeshPro.csproj
+      projectPath: Unity.TextMeshPro.csproj
+      originalPath: 
+      status: 4
+      staged: 0
   - commitID: c331728ee26715a70f5fd5ef391187d8e0c133d9
     mergeA: 
     mergeB: 

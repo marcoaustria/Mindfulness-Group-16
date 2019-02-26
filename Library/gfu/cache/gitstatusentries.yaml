@@ -1,0 +1,162 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 5
+  lastUpdatedAtString: 2019-02-26T16:06:33.608-05:00
+  initializedAtString: 2019-02-26T16:01:13.328-05:00
+  entries:
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/rapplyrs/Documents/GitHub/Mindfulness-Group-16/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/rapplyrs/Documents/GitHub/Mindfulness-Group-16/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/ProcessJobs/1f068db059d5cf0261a3b566803bc6c6.bakert
+    fullPath: /Users/rapplyrs/Documents/GitHub/Mindfulness-Group-16/Temp/ProcessJobs/1f068db059d5cf0261a3b566803bc6c6.bakert
+    projectPath: Temp/ProcessJobs/1f068db059d5cf0261a3b566803bc6c6.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityLockfile
+    fullPath: /Users/rapplyrs/Documents/GitHub/Mindfulness-Group-16/Temp/UnityLockfile
+    projectPath: Temp/UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-01311d85ede55470a9d2dce889bda0d8
+    fullPath: /Users/rapplyrs/Documents/GitHub/Mindfulness-Group-16/Temp/UnityTempFile-01311d85ede55470a9d2dce889bda0d8
+    projectPath: Temp/UnityTempFile-01311d85ede55470a9d2dce889bda0d8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-13869c03998dc4066a70630cb0c923b3
+    fullPath: /Users/rapplyrs/Documents/GitHub/Mindfulness-Group-16/Temp/UnityTempFile-13869c03998dc4066a70630cb0c923b3
+    projectPath: Temp/UnityTempFile-13869c03998dc4066a70630cb0c923b3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-2184dbd7852df450e98a004cb605980f
+    fullPath: /Users/rapplyrs/Documents/GitHub/Mindfulness-Group-16/Temp/UnityTempFile-2184dbd7852df450e98a004cb605980f
+    projectPath: Temp/UnityTempFile-2184dbd7852df450e98a004cb605980f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-23fb4ad300d174727b52df9f128cf8cc
+    fullPath: /Users/rapplyrs/Documents/GitHub/Mindfulness-Group-16/Temp/UnityTempFile-23fb4ad300d174727b52df9f128cf8cc
+    projectPath: Temp/UnityTempFile-23fb4ad300d174727b52df9f128cf8cc
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-3156636c32f0f4e3182e0e900b70e6c9
+    fullPath: /Users/rapplyrs/Documents/GitHub/Mindfulness-Group-16/Temp/UnityTempFile-3156636c32f0f4e3182e0e900b70e6c9
+    projectPath: Temp/UnityTempFile-3156636c32f0f4e3182e0e900b70e6c9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-39e0a880c56cc4fef9c2bf710d4cd6d9
+    fullPath: /Users/rapplyrs/Documents/GitHub/Mindfulness-Group-16/Temp/UnityTempFile-39e0a880c56cc4fef9c2bf710d4cd6d9
+    projectPath: Temp/UnityTempFile-39e0a880c56cc4fef9c2bf710d4cd6d9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-4b5db435ee5ee43d4abc1ceee456ef21
+    fullPath: /Users/rapplyrs/Documents/GitHub/Mindfulness-Group-16/Temp/UnityTempFile-4b5db435ee5ee43d4abc1ceee456ef21
+    projectPath: Temp/UnityTempFile-4b5db435ee5ee43d4abc1ceee456ef21
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-560ab64962c2a457d852154fe30b3ba8
+    fullPath: /Users/rapplyrs/Documents/GitHub/Mindfulness-Group-16/Temp/UnityTempFile-560ab64962c2a457d852154fe30b3ba8
+    projectPath: Temp/UnityTempFile-560ab64962c2a457d852154fe30b3ba8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-5d88e3fc3a7e545e1ac421123382c3bd
+    fullPath: /Users/rapplyrs/Documents/GitHub/Mindfulness-Group-16/Temp/UnityTempFile-5d88e3fc3a7e545e1ac421123382c3bd
+    projectPath: Temp/UnityTempFile-5d88e3fc3a7e545e1ac421123382c3bd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-5fa8394738e4f48e882772430b50ac9e
+    fullPath: /Users/rapplyrs/Documents/GitHub/Mindfulness-Group-16/Temp/UnityTempFile-5fa8394738e4f48e882772430b50ac9e
+    projectPath: Temp/UnityTempFile-5fa8394738e4f48e882772430b50ac9e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-680beaa8e57e241c7857863b22757e0a
+    fullPath: /Users/rapplyrs/Documents/GitHub/Mindfulness-Group-16/Temp/UnityTempFile-680beaa8e57e241c7857863b22757e0a
+    projectPath: Temp/UnityTempFile-680beaa8e57e241c7857863b22757e0a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-7a903bca9a1da427491957c9eeecbdca
+    fullPath: /Users/rapplyrs/Documents/GitHub/Mindfulness-Group-16/Temp/UnityTempFile-7a903bca9a1da427491957c9eeecbdca
+    projectPath: Temp/UnityTempFile-7a903bca9a1da427491957c9eeecbdca
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-7b30b2f61a9e34efa9156be327418b93
+    fullPath: /Users/rapplyrs/Documents/GitHub/Mindfulness-Group-16/Temp/UnityTempFile-7b30b2f61a9e34efa9156be327418b93
+    projectPath: Temp/UnityTempFile-7b30b2f61a9e34efa9156be327418b93
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-843653146accf40158c68e5a5b6b8820
+    fullPath: /Users/rapplyrs/Documents/GitHub/Mindfulness-Group-16/Temp/UnityTempFile-843653146accf40158c68e5a5b6b8820
+    projectPath: Temp/UnityTempFile-843653146accf40158c68e5a5b6b8820
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-9a54c8ef8b95c420eaa40e259e029f40
+    fullPath: /Users/rapplyrs/Documents/GitHub/Mindfulness-Group-16/Temp/UnityTempFile-9a54c8ef8b95c420eaa40e259e029f40
+    projectPath: Temp/UnityTempFile-9a54c8ef8b95c420eaa40e259e029f40
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-a595773d192be4ffab09f04877ec055d
+    fullPath: /Users/rapplyrs/Documents/GitHub/Mindfulness-Group-16/Temp/UnityTempFile-a595773d192be4ffab09f04877ec055d
+    projectPath: Temp/UnityTempFile-a595773d192be4ffab09f04877ec055d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-ae9d1fe28e1df4c7d9247f266469a7cb
+    fullPath: /Users/rapplyrs/Documents/GitHub/Mindfulness-Group-16/Temp/UnityTempFile-ae9d1fe28e1df4c7d9247f266469a7cb
+    projectPath: Temp/UnityTempFile-ae9d1fe28e1df4c7d9247f266469a7cb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-d64c69d1eda884436b0429d0a9ac308d
+    fullPath: /Users/rapplyrs/Documents/GitHub/Mindfulness-Group-16/Temp/UnityTempFile-d64c69d1eda884436b0429d0a9ac308d
+    projectPath: Temp/UnityTempFile-d64c69d1eda884436b0429d0a9ac308d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-f6181b7461e1b4b03addf57a47c4d568
+    fullPath: /Users/rapplyrs/Documents/GitHub/Mindfulness-Group-16/Temp/UnityTempFile-f6181b7461e1b4b03addf57a47c4d568
+    projectPath: Temp/UnityTempFile-f6181b7461e1b4b03addf57a47c4d568
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-fff1ebdb612e14db8953e86f4bad9e05
+    fullPath: /Users/rapplyrs/Documents/GitHub/Mindfulness-Group-16/Temp/UnityTempFile-fff1ebdb612e14db8953e86f4bad9e05
+    projectPath: Temp/UnityTempFile-fff1ebdb612e14db8953e86f4bad9e05
+    originalPath: 
+    status: 1
+    staged: 0

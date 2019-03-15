@@ -13,12 +13,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-02-26T15:53:04.210-05:00
-  initializedAtString: 2019-02-26T15:31:48.563-05:00
+  lastUpdatedAtString: 2019-03-15T09:23:08.263-04:00
+  initializedAtString: 2019-03-15T09:23:08.110-04:00
   localBranches:
+  - name: marco-scene-1
+    tracking: origin/marco-scene-1
   - name: master
     tracking: origin/master
   remoteBranches:
+  - name: origin/Jada
+    tracking: '[None]'
+  - name: origin/Rovaldy
+    tracking: '[None]'
+  - name: origin/cr
+    tracking: '[None]'
+  - name: origin/jessebd
+    tracking: '[None]'
+  - name: origin/marco-scene-1
+    tracking: '[None]'
   - name: origin/master
     tracking: '[None]'
   remotes:
@@ -31,8 +43,14 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
+    - marco-scene-1
     - master
     values:
+    - name: marco-scene-1
+      remote:
+        name: origin
+        url: https://github.com/marcoaustria/Mindfulness-Group-16.git
+      trackingBranch: marco-scene-1
     - name: master
       remote:
         name: origin
@@ -43,9 +61,39 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
+      - Jada
+      - Rovaldy
+      - cr
+      - jessebd
+      - marco-scene-1
       - master
     subKeyValues:
     - Values:
+      - name: Jada
+        remote:
+          name: origin
+          url: https://github.com/marcoaustria/Mindfulness-Group-16.git
+        trackingBranch: 
+      - name: Rovaldy
+        remote:
+          name: origin
+          url: https://github.com/marcoaustria/Mindfulness-Group-16.git
+        trackingBranch: 
+      - name: cr
+        remote:
+          name: origin
+          url: https://github.com/marcoaustria/Mindfulness-Group-16.git
+        trackingBranch: 
+      - name: jessebd
+        remote:
+          name: origin
+          url: https://github.com/marcoaustria/Mindfulness-Group-16.git
+        trackingBranch: 
+      - name: marco-scene-1
+        remote:
+          name: origin
+          url: https://github.com/marcoaustria/Mindfulness-Group-16.git
+        trackingBranch: 
       - name: master
         remote:
           name: origin

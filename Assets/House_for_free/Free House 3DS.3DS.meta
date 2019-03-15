@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: fa9bcc1f97558465eb39e37a5a501579
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 1angled sl
+    100002: chimney am
+    100004: doors main
+    100006: doors ter0
+    100008: doors terr
+    100010: floor01 am
+    100012: //RootNode
+    100014: frontterra
+    100016: fundaments
+    100018: gutter  a0
+    100020: gutter  a1
+    100022: gutter  a2
+    100024: gutter  am
+    100026: inside wal
+    100028: outsidewal
+    100030: roof am00
+    100032: roof top a
+    100034: subroof am
+    100036: window ba0
+    100038: window bac
+    100040: window fro
+    100042: window le0
+    100044: window lef
+    100046: window ri0
+    100048: window rig
+    100050: window up0
+    400000: 1angled sl
+    400002: chimney am
+    400004: doors main
+    400006: doors ter0
+    400008: doors terr
+    400010: floor01 am
+    400012: //RootNode
+    400014: frontterra
+    400016: fundaments
+    400018: gutter  a0
+    400020: gutter  a1
+    400022: gutter  a2
+    400024: gutter  am
+    400026: inside wal
+    400028: outsidewal
+    400030: roof am00
+    400032: roof top a
+    400034: subroof am
+    400036: window ba0
+    400038: window bac
+    400040: window fro
+    400042: window le0
+    400044: window lef
+    400046: window ri0
+    400048: window rig
+    400050: window up0
+    2100000: HOUSE COMPLETE
+    2100002: ROOF
+    2100004: FRAME
+    2100006: GLASS
+    2300000: 1angled sl
+    2300002: chimney am
+    2300004: doors main
+    2300006: doors ter0
+    2300008: doors terr
+    2300010: floor01 am
+    2300012: frontterra
+    2300014: fundaments
+    2300016: gutter  a0
+    2300018: gutter  a1
+    2300020: gutter  a2
+    2300022: gutter  am
+    2300024: inside wal
+    2300026: outsidewal
+    2300028: roof am00
+    2300030: roof top a
+    2300032: subroof am
+    2300034: window ba0
+    2300036: window bac
+    2300038: window fro
+    2300040: window le0
+    2300042: window lef
+    2300044: window ri0
+    2300046: window rig
+    2300048: window up0
+    3300000: 1angled sl
+    3300002: chimney am
+    3300004: doors main
+    3300006: doors ter0
+    3300008: doors terr
+    3300010: floor01 am
+    3300012: frontterra
+    3300014: fundaments
+    3300016: gutter  a0
+    3300018: gutter  a1
+    3300020: gutter  a2
+    3300022: gutter  am
+    3300024: inside wal
+    3300026: outsidewal
+    3300028: roof am00
+    3300030: roof top a
+    3300032: subroof am
+    3300034: window ba0
+    3300036: window bac
+    3300038: window fro
+    3300040: window le0
+    3300042: window lef
+    3300044: window ri0
+    3300046: window rig
+    3300048: window up0
+    4300000: outsidewal
+    4300002: floor01 am
+    4300004: roof am00
+    4300006: frontterra
+    4300008: subroof am
+    4300010: window up0
+    4300012: doors main
+    4300014: doors terr
+    4300016: doors ter0
+    4300018: window lef
+    4300020: window le0
+    4300022: window rig
+    4300024: window bac
+    4300026: window ba0
+    4300028: window ri0
+    4300030: inside wal
+    4300032: gutter  am
+    4300034: chimney am
+    4300036: gutter  a0
+    4300038: gutter  a1
+    4300040: gutter  a2
+    4300042: roof top a
+    4300044: 1angled sl
+    4300046: fundaments
+    4300048: window fro
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

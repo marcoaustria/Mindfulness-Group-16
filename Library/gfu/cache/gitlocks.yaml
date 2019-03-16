@@ -13,6 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
+<<<<<<< HEAD
   lastUpdatedAtString: 2019-03-12T12:39:22.158-04:00
   initializedAtString: 2019-03-12T11:59:14.022-04:00
+=======
+  lastUpdatedAtString: 2019-03-15T15:15:42.634-04:00
+  initializedAtString: 2019-03-15T13:03:31.362-04:00
+>>>>>>> origin/marco-scene-1
   gitLocks: []

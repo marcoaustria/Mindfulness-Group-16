@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Scene1Kitchen.unity
+=======
+- path: Assets/Scenes/Scene1Outside.unity
+>>>>>>> origin/marco-scene-1
   isLoaded: 1
   isActive: 1

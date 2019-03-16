@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":5.499820709228516,"y":4.710849761962891,"z":0.8596324920654297},"rotation":{"x":-0.16659407317638398,"y":0.7716107964515686,"z":-0.225066140294075,"w":-0.5711466670036316},"size":19.953895568847658,"orthographic":false}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":-6.971961975097656,"y":2.573244094848633,"z":-17.8048152923584},"rotation":{"x":0.08347215503454209,"y":0.5369699597358704,"z":-0.05350233241915703,"w":0.8377549052238464},"size":32.59004211425781,"orthographic":false}
+>>>>>>> origin/marco-scene-1

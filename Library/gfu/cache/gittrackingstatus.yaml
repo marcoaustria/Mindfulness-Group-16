@@ -13,7 +13,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 4
+<<<<<<< HEAD
   lastUpdatedAtString: 2019-03-12T12:39:22.668-04:00
   initializedAtString: 2019-03-12T11:59:13.574-04:00
+=======
+  lastUpdatedAtString: 2019-03-15T13:03:31.359-04:00
+  initializedAtString: 2019-03-15T13:03:31.359-04:00
+>>>>>>> origin/marco-scene-1
   ahead: 0
   behind: 0

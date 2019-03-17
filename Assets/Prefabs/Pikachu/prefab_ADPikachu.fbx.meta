@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 17dd4c8efbcbac44a972f85dfaf26fe7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ADPikachuBodySkin
+    100002: ADPikachuSippoSkin
+    100004: EndHead
+    100006: EndLEar3
+    100008: EndLFingerA
+    100010: EndLFingerC
+    100012: EndLFoot
+    100014: EndLHand
+    100016: EndLToe
+    100018: EndREar3
+    100020: EndRFingerA
+    100022: EndRFingerC
+    100024: EndRFoot
+    100026: EndRHand
+    100028: EndRToe
+    100030: EndTail3
+    100032: Head
+    100034: Hips
+    100036: LArm
+    100038: LEar1
+    100040: LEar2
+    100042: LEar3
+    100044: LFingerA
+    100046: LFingerC
+    100048: LFoot
+    100050: LForeArm
+    100052: LHand
+    100054: LLeg
+    100056: LShoulder
+    100058: LThigh
+    100060: LToe
+    100062: Origin
+    100064: //RootNode
+    100066: RArm
+    100068: REar1
+    100070: REar2
+    100072: REar3
+    100074: RFingerA
+    100076: RFingerC
+    100078: RFoot
+    100080: RForeArm
+    100082: RHand
+    100084: RigEye
+    100086: RigMouth
+    100088: RLeg
+    100090: RShoulder
+    100092: RThigh
+    100094: RToe
+    100096: Spine1
+    100098: Spine2
+    100100: Tail1
+    100102: Tail2
+    100104: Tail3
+    400000: ADPikachuBodySkin
+    400002: ADPikachuSippoSkin
+    400004: EndHead
+    400006: EndLEar3
+    400008: EndLFingerA
+    400010: EndLFingerC
+    400012: EndLFoot
+    400014: EndLHand
+    400016: EndLToe
+    400018: EndREar3
+    400020: EndRFingerA
+    400022: EndRFingerC
+    400024: EndRFoot
+    400026: EndRHand
+    400028: EndRToe
+    400030: EndTail3
+    400032: Head
+    400034: Hips
+    400036: LArm
+    400038: LEar1
+    400040: LEar2
+    400042: LEar3
+    400044: LFingerA
+    400046: LFingerC
+    400048: LFoot
+    400050: LForeArm
+    400052: LHand
+    400054: LLeg
+    400056: LShoulder
+    400058: LThigh
+    400060: LToe
+    400062: Origin
+    400064: //RootNode
+    400066: RArm
+    400068: REar1
+    400070: REar2
+    400072: REar3
+    400074: RFingerA
+    400076: RFingerC
+    400078: RFoot
+    400080: RForeArm
+    400082: RHand
+    400084: RigEye
+    400086: RigMouth
+    400088: RLeg
+    400090: RShoulder
+    400092: RThigh
+    400094: RToe
+    400096: Spine1
+    400098: Spine2
+    400100: Tail1
+    400102: Tail2
+    400104: Tail3
+    2100000: ADPikachu-BodyA
+    2100002: ADPikachu-Cheek
+    2100004: ADPikachu-Logo
+    2100006: ADPikachu-Mouth
+    2100008: ADPikachu-Eye
+    2100010: No Name
+    4300000: ADPikachuBodySkin
+    4300002: ADPikachuSippoSkin
+    9500000: //RootNode
+    13700000: ADPikachuBodySkin
+    13700002: ADPikachuSippoSkin
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -13,13 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-<<<<<<< HEAD
-  lastUpdatedAtString: 2019-03-12T12:39:18.351-04:00
-  initializedAtString: 2019-03-12T11:59:10.573-04:00
-=======
-  lastUpdatedAtString: 2019-03-15T13:03:31.341-04:00
-  initializedAtString: 2019-03-15T13:03:31.341-04:00
->>>>>>> origin/marco-scene-1
+  lastUpdatedAtString: 2019-03-16T20:29:42.089-04:00
+  initializedAtString: 2019-03-16T20:29:42.089-04:00
   currentGitRemote:
     name: origin
     url: https://github.com/marcoaustria/Mindfulness-Group-16.git
@@ -29,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: marco-scene-1
-    tracking: origin/marco-scene-1
+    name: master
+    tracking: origin/master
   currentConfigBranch:
-    name: marco-scene-1
+    name: master
     remote:
       name: origin
       url: https://github.com/marcoaustria/Mindfulness-Group-16.git
-    trackingBranch: marco-scene-1
+    trackingBranch: master
   currentConfigRemote:
     name: origin
     url: https://github.com/marcoaustria/Mindfulness-Group-16.git

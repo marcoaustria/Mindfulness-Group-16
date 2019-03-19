@@ -1875,6 +1875,21 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d7ebb2b5789a2be45b7bd26b3b9d50aa, type: 3}
+--- !u!1 &902383910 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5450124511506221469, guid: 7dc34d6f2b8c6ac4ba9c8ffd0d70cbf0,
+    type: 3}
+  m_PrefabInstance: {fileID: 5450124512280893515}
+  m_PrefabAsset: {fileID: 0}
+--- !u!45 &902383912
+Skybox:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 902383910}
+  m_Enabled: 1
+  m_CustomSkybox: {fileID: 2100000, guid: 3e5399bd195de7649b874f58c1b9f8a3, type: 2}
 --- !u!1001 &914964592
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4582,6 +4597,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5450124511506221463, guid: 7dc34d6f2b8c6ac4ba9c8ffd0d70cbf0,
+        type: 3}
+      propertyPath: m_BackGroundColor.r
+      value: 0.5019608
+      objectReference: {fileID: 0}
+    - target: {fileID: 5450124511506221463, guid: 7dc34d6f2b8c6ac4ba9c8ffd0d70cbf0,
+        type: 3}
+      propertyPath: m_BackGroundColor.g
+      value: 0.5019608
+      objectReference: {fileID: 0}
+    - target: {fileID: 5450124511506221463, guid: 7dc34d6f2b8c6ac4ba9c8ffd0d70cbf0,
+        type: 3}
+      propertyPath: m_BackGroundColor.b
+      value: 0.5019608
+      objectReference: {fileID: 0}
+    - target: {fileID: 5450124511506221463, guid: 7dc34d6f2b8c6ac4ba9c8ffd0d70cbf0,
+        type: 3}
+      propertyPath: m_ClearFlags
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7dc34d6f2b8c6ac4ba9c8ffd0d70cbf0, type: 3}

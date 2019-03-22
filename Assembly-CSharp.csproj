@@ -176,6 +176,10 @@
     <Compile Include="Assets\GoogleVR\Scripts\Utilities\Internal\GvrCursorHelper.cs" />
     <Compile Include="Assets\GoogleVR\Scripts\Utilities\Internal\SuppressMemoryAllocationErrorAttribute.cs" />
     <Compile Include="Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs" />
+    <Compile Include="Assets\Scripts\PikaSceneChange.cs" />
+    <Compile Include="Assets\Scripts\PlayerWalk.cs" />
+    <Compile Include="Assets\Scripts\SceneController.cs" />
+    <Compile Include="Assets\Scripts\VRWalk.cs" />
     <None Include="Assets\Stylized Forest Lite\Readme.txt" />
     <None Include="Assets\GoogleVR\Shaders\GvrUIOverlayFont.shader" />
     <None Include="Assets\laxer tree pkg\README.txt" />
@@ -193,6 +197,7 @@
     <None Include="Assets\GoogleVR\Shaders\GvrUIOverlay.shader" />
     <None Include="Assets\GoogleVR\Plugins\Android\proguard-gvr.txt" />
     <None Include="Assets\GoogleVR\Plugins\Android\AndroidManifest-Cardboard.xml" />
+    <None Include="Assets\SkySerie Freebie\Hdri setup.txt" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/admin/Documents/GitHub/Mindfulness Group 16/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
